@@ -7,6 +7,7 @@ This project represents a basic implementation of the system model **SmartStyle 
 - `models/`: contains main classes (`User`, `Garment`, `Wardrobe`, `Outfit`, `ImpactReport`, `StyleAssistant`)
 - `main.py`: demo script to run a simple simulation of the system.
 
+```
 smartstyle-eco/
 
 ├── main.py
@@ -30,6 +31,7 @@ smartstyle-eco/
 ├── impact_report.py
 
 └── assistant.py
+```
 
 ## Usage
 
