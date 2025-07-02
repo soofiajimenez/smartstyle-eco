@@ -1,6 +1,6 @@
 class ImpactReport:
     def __init__(self, garments):
-        self.co2_kg = len(garments) * 2.5  # Simple estimation
+        self.co2_kg = len(garments) * 2.5  # simple estimation
         self.water_liters = len(garments) * 100
 
     def display(self):
