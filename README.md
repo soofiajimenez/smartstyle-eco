@@ -1,6 +1,6 @@
 # SmartStyle Eco - Práctica 3
 
-Este proyecto representa una implementación básica del modelo del sistema **SmartStyle Eco**, cumpliendo con principios de Clean Code y buenas prácticas de ingeniería de software.
+Este proyecto representa una implementación básica del modelo del sistema **SmartStyle Eco**.
 
 ## Estructura
 
