@@ -33,13 +33,20 @@ smartstyle-eco/
 
 ## Usage
 
+To test the core logic of SmartStyle Eco:
+
+1. Open a terminal in the project folder.
+2. Run the following command:
+
 ```bash
 python main.py
 ```
 
 ## Requirements
 
-- Python 3.x
+- Python 3.7
+- OS: Windows / macOS / Linux
+- No external dependencies (standard Python libraries only)
 
 ## Project description
 
